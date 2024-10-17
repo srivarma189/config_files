@@ -2,7 +2,7 @@ build:
   version: "V2"
 
 accounts:
-  message: "Welcome to EazyBank accounts related qa APIs "
+  message: "Welcome to EazyBank accounts related quality check APIs "
   contactDetails:
     name: "Sri - Developer"
     email: "sri@eazybank.com"
