@@ -2,7 +2,7 @@ build:
   version: "Q1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related Quality check APIs "
   contactDetails:
     name: "John Doe - QA"
     email: "{cipher}3dd4dff41baf25937f81651776c576bb804bfc756b571983563c7f3414d0cc2bfa06079a6d350a10015ba918feea36b4"
